@@ -1,0 +1,5 @@
+ipv4-c001-den001-t-mobile-isp.1.oca.nflxvideo.net
+ipv4-c269-lax001-ix.1.oca.nflxvideo.net
+ipv4-c231-lax001-ix.1.oca.nflxvideo.net
+ipv4-c153-sea001-ix.1.oca.nflxvideo.net
+ipv4-c194-sea001-ix.1.oca.nflxvideo.net

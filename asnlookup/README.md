@@ -1,0 +1,1 @@
+This is a tool for you to lookup the ASN and the reverse DNS name as well as the OrgName of the IP address. You could use `python basicinfo.py --ip_in <ip_address>` to lookup the information of a single IP or use `python basicinfo.py --ip_file <file_name>` to get all the ip info in the file.
