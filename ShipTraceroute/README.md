@@ -1,4 +1,7 @@
-# AccessNetworkTopology
+# ShipTraceroute
+
+## Overview
+- In order to understand the mobile regional access network, all needs to be done is having mobile devices do Traceroute. However, having enough vantage points is a problem. The idea of ShipTraceroute is putting the phone into package, shipping it through the way and having mobile devices do the experiment itself through the way. To achieve this, we use [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US) to run the scripts automatically.
 
 ## mobile-topology-phone-setup
 ### Instructions for setting up the phone
